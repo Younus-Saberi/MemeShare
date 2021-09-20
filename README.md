@@ -17,6 +17,6 @@ I'm a full stack android developer...
 
   
 ## Screenshots
-<img src="img1.jpeg">
-<img src="img2.jpeg">
-<img src="img3.jpeg">
+<img src="images/img1.jpeg">
+<img src="images/img2.jpeg">
+<img src="images/img3.jpeg">
